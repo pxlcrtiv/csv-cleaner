@@ -1,2 +1,4 @@
 ap.csv
 output.csv
+.gitignore
+.DS_Store
