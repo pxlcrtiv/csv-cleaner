@@ -1,5 +1,7 @@
 # CSV Name-Email Extractor
 
+![CSV Data Extractor Banner](banner.png)
+
 A Python tool to extract names and email addresses from CSV files and format them into a clean two-column CSV structure.
 
 ## Features
